@@ -1,2 +1,1 @@
-[rsschool-cv](https://PavelS324.github.io/rsschool-cv/cv)
-[rsschool-cv2](https://github.com/PavelS324/rsschool-cv.git)
+[rsschool-cv_Readme.md](https://PavelS324.github.io/rsschool-cv/cv)
